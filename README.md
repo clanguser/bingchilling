@@ -56,10 +56,11 @@ python manage.py runserver
 ## App Preview
 
 ### Feed Home
-![Feed Home](https://github.com/clanguser/bingchilling/blob/master/assets/91418836/12a4245f-afec-4b08-b5d3-264cc1281388.jpg)
+![image](https://github.com/clanguser/bingchilling/assets/91418836/798521ea-c67d-46bf-9d0c-b9416f2eaa72)
 
 ### Room Conversation Preview
-![Room Conversation Preview](https://github.com/clanguser/bingchilling/blob/master/assets/91418836/4b191380-3078-4fe2-9d93-a3e8c69430bb.jpg)
+![image](https://github.com/clanguser/bingchilling/assets/91418836/56961426-d5a0-4fd8-8a9e-7a4d56c55778)
+
 
 
 
