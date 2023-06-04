@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Fetch API Example</title>
+    <script>
+      function fetchData() {
+        fetch("http://127.0.0.1:8000/api/rooms/")
+          .then((response) => response.json())
+          .then((data) => {
+            // Iterate over each room object and display id, name, and description
+            data.forEach((room) => {
+              var element = document.createElement("p");
+              element.textContent =
+                "ID: " +
+                room.id +
+                ", Name: " +
+                room.name +
+                ", Description: " +
+                room.description;
+              document.body.appendChild(element);
+            });
+          })
+          .catch((error) => {
+            console.error("Error:", error);
+          });
+      }
+    </script>
+  </head>
+  <body>
+    <button onclick="fetchData()">Fetch Data</button>
+  </body>
+</html>
