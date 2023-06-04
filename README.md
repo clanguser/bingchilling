@@ -53,25 +53,13 @@ python manage.py runserver
 
 #
 
-### App Preview :
+## App Preview
 
-<table width="100%"> 
-<tr>
-<td width="50%">      
-&nbsp; 
-<br>
-<p align="center">
-  Feed Home
-</p>
-![image](https://github.com/clanguser/bingchilling/assets/91418836/12a4245f-afec-4b08-b5d3-264cc1281388)
-</td> 
-<td width="50%">
-<br>
-<p align="center">
-  Room Conversation Preview
-</p>
-![image](https://github.com/clanguser/bingchilling/assets/91418836/4b191380-3078-4fe2-9d93-a3e8c69430bb)
-</td>
-</table>
+### Feed Home
+![Feed Home](https://github.com/clanguser/bingchilling/blob/master/assets/91418836/12a4245f-afec-4b08-b5d3-264cc1281388.jpg)
+
+### Room Conversation Preview
+![Room Conversation Preview](https://github.com/clanguser/bingchilling/blob/master/assets/91418836/4b191380-3078-4fe2-9d93-a3e8c69430bb.jpg)
+
 
 
